@@ -9,8 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ngx-translate/core": "^15.0.0",
     "@types/socket.io": "^3.0.2",
-    "express": "^4.17.1",
-    "socket.io": "^4.1.1"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "ngx-float-ui": "^18.0.2",
+    "properties-reader": "^2.3.0",
+    "socket.io": "^4.1.1",
+    "stream-chat": "^8.55.0",
+    "stream-chat-angular": "^5.12.3"
   }
 }
